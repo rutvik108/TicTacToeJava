@@ -1,8 +1,11 @@
 # TicTacToeJava
 //import java.sql.ClientInfoStatus;
+
+
 import java.util.*;
 
 public class TicTacToe {
+
     static ArrayList<Integer> UserList=new ArrayList<>();
     static ArrayList<Integer> MonitorList=new ArrayList<>();
 
